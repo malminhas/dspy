@@ -1,0 +1,6 @@
+dspy-ai>=2.4.0
+feedparser>=6.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+docopt>=0.6.2
+lxml>=4.9.0 
