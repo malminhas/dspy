@@ -36,7 +36,7 @@ The generated HTML reports feature:
 
 Screenshot below. You can also [view the live demo](https://malminhas.github.io/dspy/ai_news_summary.html)
 
-<img width="409" height="710" alt="image" src="https://github.com/user-attachments/assets/119a163d-91ad-490b-94ae-b5426fc8178b" />
+<img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/119a163d-91ad-490b-94ae-b5426fc8178b" />
 
 
 ## 🚀 Quick Start
