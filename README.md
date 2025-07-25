@@ -23,7 +23,18 @@ A production-ready CLI tool that generates daily AI news summaries using DSPy an
 - **Executive Summary** - Meta-analysis of daily AI trends
 - **Beautiful HTML Reports** - Professional presentation with source links
 
-📄 **[View Latest AI News Summary](ai_news_summary.html)**
+📄 **[View Latest AI News Summary](https://malminhas.github.io/dspy/ai_news_summary.html)** *(Live Demo)*
+
+## 📸 Preview
+
+### AI News Summary Report
+The generated HTML reports feature:
+- **Modern Design** - Clean, professional styling with responsive layout
+- **Executive Summary** - AI-generated overview of key trends
+- **Article Cards** - Individual summaries with metadata and source links  
+- **Statistics Dashboard** - Article count and source metrics
+
+*Screenshot coming soon - or [view the live demo](https://malminhas.github.io/dspy/ai_news_summary.html)*
 
 ## 🚀 Quick Start
 
